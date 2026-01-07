@@ -37,6 +37,12 @@ It provides visibility into system performance, logs, and alerting for cloud inf
 * Alerting framework for proactive monitoring
 * Cloud-native, production-style setup
 
+##Files in this Repo 
+
+* Documentation
+* Architecture
+* Power Point Presentation with Screenshots 
+
 ## Contact 
 
 **Priyanka Rajagopal**
